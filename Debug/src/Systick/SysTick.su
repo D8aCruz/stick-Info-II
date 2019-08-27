@@ -1,0 +1,2 @@
+SysTick.c:3:6:InicializarSysTick	4	static
+SysTick.c:11:6:SysTick_Handler	8	static

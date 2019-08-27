@@ -1,0 +1,6 @@
+GPIOs.c:9:6:GPIOs_SetPINSEL	24	static
+GPIOs.c:15:6:GPIOs_SetDIR	24	static
+GPIOs.c:19:6:GPIOs_SetPINMODE	24	static
+GPIOs.c:25:6:GPIOs_setPINMODE_OD	24	static
+GPIOs.c:29:6:GPIOs_SetPIN	24	static
+GPIOs.c:35:10:GPIOs_getPIN	16	static
